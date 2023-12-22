@@ -1,0 +1,14 @@
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+footer nav {
+  background-color: var(--color4);
+  color: var(--color1);
+}
+footer a.nav-link {
+  height: 1em;
+  margin: 0 5px;
+  padding: 0;
+}

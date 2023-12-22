@@ -1,0 +1,17 @@
+<nav class="navbar navbar-expand-md fixed-top shadow bg-light">
+  <div class="container">
+    <strong><a class="navbar-brand btn" routerLink="/home">{{ title }}</a></strong>
+    <!-- make the navbar collapsible when on small screen-->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collnav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <!-- navigation menu in a collapsible div for small screen -->
+    <div class="collapse navbar-collapse" id="collnav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="btn" routerLink="/projects">Projects</a></li>
+        <li class="nav-item"><a class="btn" routerLink="/publications">Publications</a></li>
+        <li class="nav-item"><a class="btn" routerLink="/teaching">Teaching</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
