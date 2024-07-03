@@ -1,0 +1,35 @@
+{
+  "projects": [
+  {
+    "acronym": "ODD",
+    "title": "Online Deep Anomaly Detection",
+    "funding": "ANR (PRME)",
+    "years": "2023-2027",
+    "link": "",
+    "abstract": "ODD is a single-team ('mono-équipe') research project involving a dozen researchers from the machine learning team of the LITIS lab., and focusing on anomaly detection in time series using deep learning methods."
+  },
+  {
+    "acronym": "PINNterfaces",
+    "title": "Modeling interfaces in granular media using physics informed neural networks",
+    "funding": "ANR (PRC)",
+    "years": "2023-2027",
+    "link": "",
+    "abstract": "This project brings together the LEMTA laboratory (Nancy, France), the LMRS laboratory (Rouen, France) and the LITIS laboratory, around physics-informed machine learning paradigm for modeling interfaces in granular media. The main focus is to propose new theoretical insights and new physics-informed learning methods through the study of granular media modelisation."
+  },
+  {
+    "acronym": "LLiSa",
+    "title": "Laboratoire Commun LITIS Saagie",
+    "funding": "ANR (LabCom)",
+    "years": "2021-2026",
+    "link": "https://llisa.projets.litislab.fr/",
+    "abstract": "This project is a joint laboratory between LITIS and the company Saagie, which aims to develop AI models within a general framework of multitask statistical learning and regularization for the use of incomplete data."
+  },
+  {
+    "acronym": "MMLARP",
+    "title": "Multimodal/multiview learning applied to real problems",
+    "funding": "CAPES STIC-AmSud",
+    "years": "2024-2025",
+    "link": "https://www.ppgia.pucpr.br/~alceu/sticamsud_2024/",
+    "abstract": "MMLARP is a scientific-technological cooperation program that involves more than 20 researchers from Brazil, Chile and France. Its aim is to strengthen the consortium's current collaborations around multimodal/multiview learning paradigms, for applications in medical image analysis, document image retrieval and automotive safety."
+  }]
+}
